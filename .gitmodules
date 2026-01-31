@@ -1,0 +1,6 @@
+[submodule "destined-backend"]
+	path = destined-backend
+	url = https://github.com/aaditya-paul/destined-backend
+[submodule "destined-frontend"]
+	path = destined-frontend
+	url = https://github.com/aaditya-paul/destined-frontend
